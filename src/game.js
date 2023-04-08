@@ -15,3 +15,5 @@ function click() {
     win();
   }
 }
+
+export default click;
